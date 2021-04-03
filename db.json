@@ -1,0 +1,33 @@
+{
+    "lomo": "PM Orignals",
+    "isHorizontal": false,
+    "aspectRatio": 1.7777777777777777,
+    "data": [
+      {
+        "id": 1,
+        "type": "movie",
+        "production_poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_3x/sources/r1/cms/prod/9558/919558-v",
+        "production_trailer": "https://rawgit.com/mediaelement/mediaelement-files/master/big_buck_bunny.mp4",
+        "production_title": "Title",
+        "production_details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+        "other": {
+          "duration": 20320,
+          "release_date": "23/02/2020",
+          "adult": true,
+          "ratings": 8.3,
+          "genres": [
+            "Comedy",
+            "Horror"
+          ],
+          "cast": {
+            "director": "Adity Sarpodar",
+            "stars": [
+              "Amey Wagh",
+              "Lalit Prabhakar",
+              "Sharad Sonu"
+            ]
+          }
+        }
+      }
+    ]
+  }
